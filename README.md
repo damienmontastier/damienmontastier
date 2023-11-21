@@ -18,6 +18,7 @@
 <h2 align="left">Contact</h2>
 
 ###
+
 <div align="left">
   <a href="https://twitter.com/dammontastier" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
@@ -32,4 +33,5 @@
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="codepen logo"  />
   </a>
 </div>
+
 ###
