@@ -18,12 +18,11 @@
 <h2 align="left">Contact</h2>
 
 ###
-
 <div align="left">
   <a href="https://twitter.com/dammontastier" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
   </a>
-  <a href="www.linkedin.com/in/damien-montastier-ab8798133" target="_blank">
+  <a href="https://www.linkedin.com/in/damien-montastier-ab8798133/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
   <a href="mailto:montastier.damien@gmail.com" target="_blank">
@@ -33,5 +32,4 @@
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="codepen logo"  />
   </a>
 </div>
-
 ###
