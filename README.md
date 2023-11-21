@@ -2,15 +2,20 @@
 
 <p align="left">🇫🇷 Freelance Front-End Developer</p>
 
+<h2 align="left">Works</h2>
+
 <h3 align="left">Freelance</h3>
 
 - [Adidas Arena](https://www.adidasarena.com/)
 - [Ferrari x Richard Mille](https://ferrari.richardmille.com/en/) 
 
-<h3 align="left">Leonard Agency</h3>
+<h3 align="left">Leonard Agency (2019 - 2021)</h3>
 
 - [LNR](https://www.lnr.agency/)
-- [Dillinger](https://dillinger.tv/) 
+- [Dillinger](https://dillinger.tv/)
+- [Alphacap](https://www.alphacap.fr/)
+
+<h2 align="left">Contact</h2>
 
 ###
 
