@@ -4,7 +4,7 @@
 
 <h3 align="left">Freelance</h3>
 
-- [Adidas Arena](https://www.adidasarena.com/){:target="_blank"}
+- [Adidas Arena](https://www.adidasarena.com/)
 - [Ferrari x Richard Mille](https://ferrari.richardmille.com/en/) 
 
 <h3 align="left">Leonard Agency</h3>
