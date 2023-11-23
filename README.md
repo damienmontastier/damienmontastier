@@ -6,13 +6,13 @@
 
 <h3 align="left">Freelance</h3>
 
-- [Adidas Arena](https://www.adidasarena.com/)
-- [Ferrari x Richard Mille](https://ferrari.richardmille.com/en/) 
+- [Adidas Arena](https://www.adidasarena.com/) —— <sub><sup>Awwwards 🏆 x2 — FWA 🏆</sup></sub>
+- [Ferrari x Richard Mille](https://ferrari.richardmille.com/en/)
 
 <h3 align="left">Leonard Agency (2019 - 2021)</h3>
 
-- [LNR](https://www.lnr.agency/)
-- [Dillinger](https://dillinger.tv/)
+- [LNR](https://www.lnr.agency/) —— <sub><sup>Awwwards 🏆 x2 — FWA 🏆 — CSS Design Awards 🏆</sup></sub>
+- [Dillinger](https://dillinger.tv/) —— <sub><sup>Awwwards 🏆 x2 — FWA 🏆 — CSS Design Awards 🏆</sup></sub>
 - [Alphacap](https://www.alphacap.fr/)
 
 <h2 align="left">Contact</h2>
