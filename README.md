@@ -7,7 +7,7 @@
 <h3 align="left">Freelance</h3>
 
 - [Adidas Arena](https://www.adidasarena.com/) —— <sub><sup>Awwwards 🏆 x2 — FWA 🏆 — CSS Design Awards 🏆</sup></sub>
-- [Agorespace](https://www.agorespace.com/en-us/)
+- [Agorespace](https://www.agorespace.com/en-us/) —— <sub><sup>FWA 🏆</sup></sub>
 - [Ferrari x Richard Mille](https://ferrari.richardmille.com/en/)
 - [La Ferme du Golf](https://fermedugolf.com/)
 
