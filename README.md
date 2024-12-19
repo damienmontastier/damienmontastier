@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="left">🇫🇷 Freelance Front-End Developer —— Member of <a href="https://tresjs.org/" target="_blank">Tresjs</a></p>
+<p align="left">🇫🇷 Freelance Front-End Developer —— Member of <a href="https://github.com/Tresjs" target="_blank">Tresjs</a></p>
 <p align="left"></p>
 
 
