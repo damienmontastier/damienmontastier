@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="left">🇫🇷 Freelance Front-End Developer —— Maintainer for <a href="https://github.com/Tresjs" target="_blank">Tresjs</a></p>
+<p align="left">🇫🇷 Freelance Front-End Developer —— Maintainer Team <a href="https://github.com/Tresjs" target="_blank">Tresjs</a></p>
 <p align="left"></p>
 
 
