@@ -11,6 +11,7 @@
 - [Adidas Arena](https://www.adidasarena.com/) —— <sub><sup>Awwwards 🏆 x2 — FWA 🏆 — CSS Design Awards 🏆</sup></sub>
 - [Agorespace](https://www.agorespace.com/en-us/) —— <sub><sup>FWA 🏆 — Awwwards Business & Services Honors 🏆</sup></sub>
 - [Rabanne — XP One Million Fragance](https://www.rabanne.com/us/en_US/xponemillion)
+- [Jean Paul Gaultier — XP Halloween 2025](https://www.jeanpaulgaultier.com/uk/en/gaultier-halloween)
 - [Ferrari x Richard Mille](https://ferrari.richardmille.com/en/)
 - [La Ferme du Golf](https://fermedugolf.com/)
 
