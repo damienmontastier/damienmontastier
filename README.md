@@ -14,6 +14,8 @@
 - [Jean Paul Gaultier — XP Halloween 2025](https://www.jeanpaulgaultier.com/uk/en/gaultier-halloween)
 - [Ferrari x Richard Mille](https://ferrari.richardmille.com/en/)
 - [La Ferme du Golf](https://fermedugolf.com/)
+- [Laura Ferré](https://www.lauraferre.fr/)
+
 
 
 <h3 align="left">Leonard Agency <sub><sup>(2019 - 2021)</sup></sub></h3>
